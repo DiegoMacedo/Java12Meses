@@ -11,5 +11,6 @@ public class ContadorWhile {
             soma += numeros[i];
         }
         System.out.println("A soma dos elementos é: " + soma);
+        System.out.println("Oi");
     }
 }
