@@ -1,2 +1,18 @@
-O porjeto Java12Meses tem a intenção de estudar e aprender a linguagem Java durante 12 meses.
-Ao longo desse período será abordado os conceitos fundamentais da linguagem, bem como será feito exercícios para fixar o aprendizado.
+- O porjeto Java12Meses tem a intenção de estudar e aprender a linguagem Java durante 12 meses.
+- Ao longo desse período será abordado os conceitos fundamentais da linguagem, bem como será feito exercícios para fixar o aprendizado.
+- git init -> iniciar novo projeto com git
+- git add <nomeDoArquivo> ou . -> add os arquivos que estão prontos para serem commitados
+- git commit -m "mensagem commit" -> commit os arquivos no histórico
+- git log -> mostra os ultimos commit, log de alterações
+- git status -> como está o estado da nossa ramificações
+- git diff -> que mostra  que foi alterado -> o que tem de alteração na ramificação
+- git merge -> merge de ramificações, mescla ramificações
+- git branch -> mostra a branch atual
+- git checkout <nome-branch> -> muda pra essa branch
+- git branch -b <nome-da-banch> -> criar uma nova branch a partir da branch atual que estamos
+- git remote ass  <nome> <url> -> add um novo repositorio remoto
+- git push <nome> <nome-da-branch> -> manda nossas alterações locais para o repositorio remoto, pra cada branch
+- git pull <nome> <nome-da-branch> -> pega as alteraçlões do repositorioo remoto, e joga pra nossa maquina
+- git fech -> atualiza o novo historico local de acordo com o historico salvo la no repositorio
+           -> sincronização do local com o remoto 
+- 
