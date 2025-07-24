@@ -1,3 +1,5 @@
+package com.dmo.Java12Meses.aprender;
+
 public class Dia1 {
     public static void main(String[] args) {
        byte idade = 33;

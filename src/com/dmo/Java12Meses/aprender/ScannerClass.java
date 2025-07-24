@@ -1,4 +1,5 @@
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
+package com.dmo.Java12Meses.aprender;
+
 import java.util.Scanner;
 
 public class ScannerClass {

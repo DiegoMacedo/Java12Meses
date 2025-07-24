@@ -1,4 +1,4 @@
-package desafios;
+package com.dmo.Java12Meses.desafios;
 
 import java.util.Scanner;
 

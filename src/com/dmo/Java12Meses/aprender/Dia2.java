@@ -1,3 +1,5 @@
+package com.dmo.Java12Meses.aprender;
+
 public class Dia2 {
     public static void main(String[] args) {
 

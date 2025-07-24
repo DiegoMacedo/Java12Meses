@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package com.dmo.Java12Meses.aprender;
 
 public class ContadorWhile {
     public static void main(String[] args) {

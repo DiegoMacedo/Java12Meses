@@ -1,3 +1,5 @@
+package com.dmo.Java12Meses.aprender;
+
 import java.util.Scanner;
 
 public class ForJava {
